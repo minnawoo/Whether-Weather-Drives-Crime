@@ -9,7 +9,7 @@ Wenjie Shao<br>
 Gobind Singh<br>
 
 #### Project Description 
-We are interested in seeing whether there is a correlation weather and the number of major crimes commited. For this project, we decided to look at just the City of Toronto.
+We are interested in seeing whether there is a correlation between weather and the number of major crimes commited. For this project, we decided to look at just the City of Toronto.
  
 #### Research Questions to Answer 
 Is there a correlation between weather and major crimes?<br>
