@@ -24,7 +24,7 @@ Is there a correlation between weather and major crimes?<br>
 - World Weather Online (https://www.worldweatheronline.com/developer/premium-api-explorer.aspx)
 
 #### Rough Breakdown of Tasks
-Everyone will be practicing the pulling and cleaning of both weather and crime data. Subsequently, we will each focus on preparing Pandas dataframes and analyzing the results of one of the above four research questions:
+Everyone will be practicing the pulling and cleaning of both weather and crime data. Subsequently, we will each focus on preparing Pandas dataframes and analyzing the results of one of the above four research questions:<br>
 Minna Wu: Temperature vs. Crime<br>
 Wenjie Shao: Precipitation vs. Crime<br>
 Tim Sutherland: Moon Phase vs. Crime<br>
