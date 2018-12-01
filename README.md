@@ -30,3 +30,6 @@ Everyone will be practicing the pulling and cleaning of both weather and crime d
 - Tim Sutherland: Moon Phase vs. Crime<br>
 - Wenjie Shao: Precipitation vs. Crime<br>
 - Gobind Singh: Weekday vs. Weekend Crime<br>
+
+#### Analysis in Jupyter Notebook
+[Please see our results here](/Whether-Weather-Drives-Crime.ipynb)
